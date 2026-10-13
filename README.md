@@ -6,6 +6,12 @@ BatchAlchemy is a high-precision desktop application for complex bulk file renam
 
 For a detailed breakdown of the system architecture, component relationships, and data flow, please refer to the [Architecture Documentation](ARCHITECTURE.md).
 
+## AI/LLM Disclaimer
+
+I developed this with help from an LLM running on my local machine. Models were strictly local on my own GPU. I utilized gemm4 with a 12B and 26B parameter model, using opencode.
+
+I've conducted the reviews.
+
 ## Features
 
 - **Smart Rule Engine**: Define global rules using:
